@@ -2,9 +2,11 @@
 
 [Introduction of Software Engineering](https://www.mtu.edu/cs/undergraduate/software/what/)
 
-The article introduce about what is Software Engineering, It's really simplify the meaning and better 
+# YZ
+The article introduce about what is Software Engineering and how it's career looks like. It's really simplify the meaning and better for understanding. 
 
-understanding but too simple which in terms quite misleading. 
+Software Engineering is a branch of computer science that focuses on designing, developing, testing, and maintaining software applications using engineering principles and programming languages. Software engineers create everything from computer games to operating systems, with career opportunities spanning various industries, including healthcare, business, and government.
+
 
 ### Fork (Dylan Martin)
 

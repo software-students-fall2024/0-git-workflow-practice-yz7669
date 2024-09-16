@@ -1,2 +1,5 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+[Introduction of Software Engineering](https://www.mtu.edu/cs/undergraduate/software/what/)
+
+The article introduce about what is Software Engineering, It's really simplify the meaning and better 
